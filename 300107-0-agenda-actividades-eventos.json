@@ -7271,48 +7271,6 @@
 							
 	},
 	{
-		"@id": "https://datos.madrid.es/egob/catalogo/tipo/evento/10577198-rey-oso-otros-cuentos-noruegos-ana-griott.json",
-		"@type": "https://datos.madrid.es/egob/kos/actividades/CuentacuentosTiteresMarionetas",
-		"id": "10577198",
-		"title": "El rey oso y otros cuentos noruegos con Ana Griott",
-		"description": "<span style='font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;
-mso-bidi-font-family:&quot;Times New Roman&quot;'>Cuentos que llegan desde las largas
-noches noruegas, llenos de osos, de trolls. Cuentos que cuentan que el que
-vence al gigante es el que se detiene en su aventura a cuidar a los que se
-encuentra en el camino.     De 4 a 10 años.  Necesaria invitación previa, consultar en la biblioteca.   <span style='font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;
-mso-bidi-font-family:&quot;Times New Roman&quot;'>Cuentos que llegan desde las largas
-noches noruegas, llenos de osos, de trolls. Cuentos que cuentan que el que
-vence al gigante es el que se detiene en su aventura a cuidar a los que se
-encuentra en el camino.",
-		"price": 1,
-		"dtstart": "2018-03-17 18:00:00.0",
-		"dtend": "2018-03-17 23:59:00.0",
-		"excluded-days": "",
-			"audience": "Niños",
-		
-		"uid": "10577198",
-		"link": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=1ccd566813946010VgnVCM100000dc0ca8c0RCRD&vgnextoid=86d72f9d68e60610VgnVCM1000001d4a900aRCRD",
-		"event-location": "Biblioteca Pública Municipal Ángel González (Latina)",
-		"references": {
-			"@id": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=1ccd566813946010VgnVCM100000dc0ca8c0RCRD&vgnextoid=b07a7acc3b2f1510VgnVCM2000000c205a0aRCRD"
-		},
-								
-			"relation": {
-				"@id": "https://datos.madrid.es/egob/catalogo/tipo/entidadesyorganismos/5768564-biblioteca-publica-municipal-angel-gonzalez-latina-.json"
-			},
-			
-				"address": {
-					"district": {
-						"@id": "https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Latina"
-					}		
-				},
-			"location": {
-				"latitude": 40.397074625115906,
-				"longitude": -3.7664885474841556
-			}
-							
-	},
-	{
 		"@id": "https://datos.madrid.es/egob/catalogo/tipo/evento/10577652-rey-oso-otros-cuentos-noruegos-ana-griott.json",
 		"@type": "https://datos.madrid.es/egob/kos/actividades/CuentacuentosTiteresMarionetas",
 		"id": "10577652",
@@ -10319,7 +10277,7 @@ encuentra en el camino.",
 		"excluded-days": "",
 		"uid": "7777683",
 		"link": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=1ccd566813946010VgnVCM100000dc0ca8c0RCRD&vgnextoid=ee0f1a101ee2a410VgnVCM1000000b205a0aRCRD",
-		"event-location": "Parque Lineal del Manzanares (Usera\Pte de Vallecas)",
+		"event-location": "Parque Lineal del Manzanares (Userate de Vallecas)",
 		"references": {
 			"@id": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=1ccd566813946010VgnVCM100000dc0ca8c0RCRD&vgnextoid=6f7350a84de2a410VgnVCM1000000b205a0aRCRD"
 		},
@@ -10346,7 +10304,7 @@ encuentra en el camino.",
 		"excluded-days": "",
 		"uid": "8373441",
 		"link": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=1ccd566813946010VgnVCM100000dc0ca8c0RCRD&vgnextoid=c8b9a2e960761510VgnVCM1000000b205a0aRCRD",
-		"event-location": "Parque Lineal del Manzanares (Usera\Pte de Vallecas)",
+		"event-location": "Parque Lineal del Manzanares (Userate de Vallecas)",
 		"references": {
 			"@id": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=1ccd566813946010VgnVCM100000dc0ca8c0RCRD&vgnextoid=6f7350a84de2a410VgnVCM1000000b205a0aRCRD"
 		},
